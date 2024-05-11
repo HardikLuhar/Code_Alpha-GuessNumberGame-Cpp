@@ -27,11 +27,11 @@ class guess_num
             else{
                 if (a>b)
 				{
-					cout<<" WRONG!!, Guess Lower !"<<endl;
+					cout<<" WRONG!!, Too High!!"<<endl;
 					cout<<endl;
 				}
 				else if(b>a){
-					cout<<" WRONG!!, Guess Higher !"<<endl;
+					cout<<" WRONG!!, Too low!!"<<endl;
 					cout<<endl;
 				}
 				
@@ -58,11 +58,11 @@ class guess_num
             else{
                 if (a>b)
 				{
-					cout<<" WRONG!!, Guess Lower !"<<endl;
+					cout<<" WRONG!!, Too High!!"<<endl;
 					cout<<endl;
 				}
 				else if(b>a){
-					cout<<" WRONG!!, Guess Higher !"<<endl;
+					cout<<" WRONG!!, Too Low!!"<<endl;
 					cout<<endl;
 				}
 				
@@ -89,11 +89,11 @@ class guess_num
             else{
                 if (a>b)
 				{
-					cout<<" WRONG!!, Guess Lower !"<<endl;
+					cout<<" WRONG!!, Too High!!"<<endl;
 					cout<<endl;
 				}
 				else if(b>a){
-					cout<<" WRONG!!, Guess Higher !"<<endl;
+					cout<<" WRONG!!, Too Low!!"<<endl;
 					cout<<endl;
 				}
 				
@@ -120,11 +120,11 @@ class guess_num
             else{
                 if (a>b)
 				{
-					cout<<" WRONG!!, Guess Lower !"<<endl;
+					cout<<" WRONG!!, Too High!!"<<endl;
 					cout<<endl;
 				}
 				else if(b>a){
-					cout<<" WRONG!!, Guess Higher !"<<endl;
+					cout<<" WRONG!!, Too Low!!"<<endl;
 					cout<<endl;
 				}
 				
